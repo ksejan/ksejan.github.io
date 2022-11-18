@@ -4,7 +4,7 @@
     $asunto = $_POST['asunto']
     $mensaje = $_POST['mensaje']
 
-    //Conectar base de datos//
+    
     
     
 ?>

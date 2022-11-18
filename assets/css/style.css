@@ -100,6 +100,14 @@ img.rounded-4{
     color: var(--color-brand);
 }
 
+.user {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border-image-width: 1;
+    object-fit: cover;
+  }
 @media (min-width: 992px) {
     .navbar {
         min-height: 100vh;
